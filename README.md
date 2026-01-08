@@ -1,3 +1,6 @@
+🇬🇧 Version anglaise disponible : [README_EN.md](README_EN.md)
+
+
 # Conversion de Notes Musicales (Classique → Américaine)
 
 ## Description
@@ -27,7 +30,7 @@ Le formulaire est créé et injecté dynamiquement dans la page via JavaScript. 
 
 ## Auteur
 
-Vanessa PAGANOTTO (exemple)
+Vanessa PAGANOTTO
 
 ## Licence
 
